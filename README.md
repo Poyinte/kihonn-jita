@@ -1,4 +1,5 @@
-# kihonn-jita
+# kihonn-jita [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
 [![Download PDF](https://img.shields.io/badge/Download-PDF-E5322D?style=flat)](https://github.com/Poyinte/kihoon-jita/raw/main/kihoon-jita/kihonn-jita.pdf) [![Watch on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?logo=youtube&style=flat)](https://youtu.be/yOEAx9c38tw) 
 [![Watch on Bilibili](https://img.shields.io/badge/Watch%20on%20Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat)](https://www.bilibili.com/video/BV1LdSeB2Erf)
 
@@ -11,3 +12,8 @@
 [^1]:[小泉保〔ほか〕編(1989) . 『日本語基本動詞用法辞典』 . 大修館書店 .](https://ci.nii.ac.jp/ncid/BN03262993)
 [^2]:[島田昌彦(1979) . 『国語における自動詞と他動詞』 . 明治書院 .](https://ci.nii.ac.jp/ncid/BN00428488)
 [^3]:[上海译文出版社(2002) . 『日汉大辞典』 . 上海译文出版社 .](https://ci.nii.ac.jp/ncid/BA59486246)
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
